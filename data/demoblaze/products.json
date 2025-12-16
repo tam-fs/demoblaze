@@ -1,0 +1,95 @@
+{
+  "dev":[
+  {
+    "name": "Samsung galaxy s6",
+    "category": "Phones",
+    "price": 360
+  },
+  {
+    "name": "MacBook Pro",
+    "category": "Laptops",
+    "price": 1100
+  },
+  {
+    "name": "Sony xperia z5",
+    "category": "Phones",
+    "price": 790
+  },
+  {
+    "name": "MacBook air",
+    "category": "Laptops",
+    "price": 700
+  },
+  {
+    "name": "Sony vaio i5",
+    "category": "Laptops",
+    "price": 320
+  },
+  {
+    "name": "Apple monitor 24",
+    "category": "Monitors"
+  }
+],
+"stg":[
+  {
+    "name": "Samsung galaxy s6",
+    "category": "Phones",
+    "price": 360
+  },
+  {
+    "name": "MacBook Pro",
+    "category": "Laptops",
+    "price": 1100
+  },
+  {
+    "name": "Sony xperia z5",
+    "category": "Phones",
+    "price": 790
+  },
+  {
+    "name": "MacBook air",
+    "category": "Laptops",
+    "price": 700
+  },
+  {
+    "name": "Sony vaio i5",
+    "category": "Laptops",
+    "price": 320
+  },
+  {
+    "name": "Apple monitor 24",
+    "category": "Monitors"
+  }
+],
+"prod":[
+  {
+    "name": "Samsung galaxy s6",
+    "category": "Phones",
+    "price": 360
+  },
+  {
+    "name": "MacBook Pro",
+    "category": "Laptops",
+    "price": 1100
+  },
+  {
+    "name": "Sony xperia z5",
+    "category": "Phones",
+    "price": 790
+  },
+  {
+    "name": "MacBook air",
+    "category": "Laptops",
+    "price": 700
+  },
+  {
+    "name": "Sony vaio i5",
+    "category": "Laptops",
+    "price": 320
+  },
+  {
+    "name": "Apple monitor 24",
+    "category": "Monitors"
+  }
+  ]
+}
